@@ -1,0 +1,1 @@
+Machine learning project for detecting fake media using image, video frame and audio analysis.
