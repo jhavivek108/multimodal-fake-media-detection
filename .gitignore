@@ -9,3 +9,4 @@ archive (4)/
 *.zip
 .vscode/
 .env
+venv/
