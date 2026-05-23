@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+uploads/
+temp_frames/
+saved_models/
+archive (2)/
+archive (3)/
+archive (4)/
+*.zip
+.vscode/
+.env
